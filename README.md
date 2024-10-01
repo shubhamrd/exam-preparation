@@ -1,2 +1,5 @@
-# exam-preparation
-Exam Preparation Guides for varies exams.
+# Exam Preparation Guides
+
+
+
+Item 1: AWS Certified Cloud Practioner (CLF-C02) [./aws-cloud-pract.md].
