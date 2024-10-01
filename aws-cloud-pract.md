@@ -29,7 +29,7 @@ Here's the link to the AWS Cloud Practitioner Exam Guide:
 
 **Step 3: Leverage Official Training**
 
-The AWS Skill Builder offers a comprehensive, official AWS Cloud Practitioner Essentials course. This course provides:
+Not compleated the AWS training course? Not to worry, the AWS Skill Builder offers a comprehensive, official AWS Cloud Practitioner Essentials course. This course provides:
 
 * Module-wise video lectures covering key concepts.
 * Supplementary resources like AWS documentation and YouTube links.
