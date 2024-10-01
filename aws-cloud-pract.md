@@ -61,6 +61,7 @@ Now that you've built your knowledge base, it's time to test your skills. Utiliz
 Here's the link to access the practice exam and a game based validation tool (Escape Room):
 
 [Link to AWS Certified Cloud Practitioner Official Practice Exam](https://explore.skillbuilder.aws/learn/course/external/view/elearning/14637/aws-certified-cloud-practitioner-official-practice-exam-clf-c02-english)
+
 [Link to AWS Escape Room: Exam Prep for AWS Certified Cloud Practitioner](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/17373/aws-escape-room-for-exam-prep-aws-certified-cloud-practitioner-clf-c02)
 
 
@@ -70,4 +71,4 @@ By following this comprehensive guide and utilizing the official resources, you'
 
 **All the best!**
 
-**Please note:** I cannot offer technical assistance through email. However, feel free to leave a comment below if you have any questions, and I'll do my best to help!
+
